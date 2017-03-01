@@ -1,0 +1,35 @@
+Regular Output:
+The cook has refilled the pot to 10 portions.
+The savage has eaten one portion. The pot has 9 portions left.
+The savage has eaten one portion. The pot has 8 portions left.
+The savage has eaten one portion. The pot has 7 portions left.
+The savage has eaten one portion. The pot has 6 portions left.
+The savage has eaten one portion. The pot has 5 portions left.
+The savage has eaten one portion. The pot has 4 portions left.
+The savage has eaten one portion. The pot has 3 portions left.
+The savage has eaten one portion. The pot has 2 portions left.
+The savage has eaten one portion. The pot has 1 portions left.
+The savage has eaten one portion. The pot has 0 portions left.
+The cook has refilled the pot to 10 portions.
+The savage has eaten one portion. The pot has 9 portions left.
+The savage has eaten one portion. The pot has 8 portions left.
+The savage has eaten one portion. The pot has 7 portions left.
+The savage has eaten one portion. The pot has 6 portions left.
+The savage has eaten one portion. The pot has 5 portions left.
+The savage has eaten one portion. The pot has 4 portions left.
+The savage has eaten one portion. The pot has 3 portions left.
+The savage has eaten one portion. The pot has 2 portions left.
+The savage has eaten one portion. The pot has 1 portions left.
+The savage has eaten one portion. The pot has 0 portions left.
+The cook has refilled the pot to 10 portions.
+The savage has eaten one portion. The pot has 9 portions left.
+The savage has eaten one portion. The pot has 8 portions left.
+The savage has eaten one portion. The pot has 7 portions left.
+The savage has eaten one portion. The pot has 6 portions left.
+The savage has eaten one portion. The pot has 5 portions left.
+The savage has eaten one portion. The pot has 4 portions left.
+The savage has eaten one portion. The pot has 3 portions left.
+The savage has eaten one portion. The pot has 2 portions left.
+The savage has eaten one portion. The pot has 1 portions left.
+The savage has eaten one portion. The pot has 0 portions left.
+The cook has refilled the pot to 10 portions.
